@@ -516,13 +516,17 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-5.jpg"
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1120.jpg",
+              "link": "https://www.youtube.com/watch?v=zsRzD-aRybQ",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "src": "https://www.youtube.com/watch?v=zsRzD-aRybQ",
               "aspectratio": "16:9",
-              "autoplay": false,
+              "autoplay": "on",
               "loop": false
             },
             "iconFont": {
