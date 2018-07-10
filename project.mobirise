@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-10_2016",
-    "currentPage": "index.html",
+    "currentPage": "technology.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -56,11 +56,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": 1,
+            "fontSize": "1.6",
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -72,7 +72,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN TECHNOLOGIES</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN <br>TECHNOLOGIES</a>",
           "_tags": [
             "Theme"
           ],
@@ -657,7 +657,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#37383e",
+            "bgColor": "#8f99af",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -719,11 +719,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": 1,
+            "fontSize": "1.6",
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -735,7 +735,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN TECHNOLOGIES</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN <br>TECHNOLOGIES</a>",
           "_tags": [
             "Theme"
           ],
@@ -1320,7 +1320,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#37383e",
+            "bgColor": "#8f99af",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -1379,11 +1379,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": 1,
+            "fontSize": "1.6",
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1395,7 +1395,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN TECHNOLOGIES</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN <br>TECHNOLOGIES</a>",
           "_tags": [
             "Theme"
           ],
@@ -1410,7 +1410,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#37383e",
+            "bgColor": "#8f99af",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -1472,11 +1472,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": 1,
+            "fontSize": "1.6",
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1488,7 +1488,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN TECHNOLOGIES</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN <br>TECHNOLOGIES</a>",
           "_tags": [
             "Theme"
           ],
@@ -2073,7 +2073,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#37383e",
+            "bgColor": "#8f99af",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -2135,11 +2135,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": 1,
+            "fontSize": "1.6",
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2151,7 +2151,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN TECHNOLOGIES</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN <br>TECHNOLOGIES</a>",
           "_tags": [
             "Theme"
           ],
@@ -2736,7 +2736,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#37383e",
+            "bgColor": "#8f99af",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -2795,11 +2795,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": 1,
+            "fontSize": "1.6",
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2811,7 +2811,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN TECHNOLOGIES</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN <br>TECHNOLOGIES</a>",
           "_tags": [
             "Theme"
           ],
@@ -2826,7 +2826,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#37383e",
+            "bgColor": "#8f99af",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -2888,11 +2888,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": 1,
+            "fontSize": "1.6",
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2904,7 +2904,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN TECHNOLOGIES</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN <br>TECHNOLOGIES</a>",
           "_tags": [
             "Theme"
           ],
@@ -3489,7 +3489,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#37383e",
+            "bgColor": "#8f99af",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -3551,11 +3551,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": 1,
+            "fontSize": "1.6",
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3567,7 +3567,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN TECHNOLOGIES</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN <br>TECHNOLOGIES</a>",
           "_tags": [
             "Theme"
           ],
@@ -4152,7 +4152,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#37383e",
+            "bgColor": "#8f99af",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -4194,7 +4194,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "1.6em",
               "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
@@ -4214,11 +4214,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": 1,
+            "fontSize": "1.6",
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Portal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"innovation.html\">Innovation</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Technology Showcase</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Art &amp; Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Value Addition - Agriculture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruit Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Farming Machinery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Biogas Generation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Milk Processing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Programming &amp; Software</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video Editing &amp; Production</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Join Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\">Overview</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"forum.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidmwasikira.github.io/devtain_site\">Career Assessment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Download Brochure</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4230,7 +4230,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN TECHNOLOGIES</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(91, 192, 222);\"></span>DEVTAIN <br>TECHNOLOGIES</a>",
           "_tags": [
             "Theme"
           ],
@@ -4815,7 +4815,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#37383e",
+            "bgColor": "#8f99af",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
